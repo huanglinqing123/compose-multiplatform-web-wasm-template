@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Compose_Web_Wasm-js-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="Compose_Web_Wasm-js-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="Compose_Web_Wasm.jsMain" />
+    </root>
+  </artifact>
+</component>
